@@ -18,6 +18,7 @@ public class Main {
 //        System.out.println("List after poll : " + lList);
 //        lList.removeLast();
 //        System.out.println("List after removeLast : " + lList);
+
 //        Stack<Integer> stk = new Stack<Integer>();
 //        stk.push(10);
 //        stk.push(20);
